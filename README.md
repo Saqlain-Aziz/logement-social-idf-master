@@ -1,5 +1,7 @@
 # Logement Social IDF
 
+La version de production actuelle est hébergée [ici](https://lapostolet.fr)
+
 Logement social IDF est une application web qui permet de consulter des données à propos de l'état du logement social dans les communes d'Ile de France.
 
 ![](screenshot.png)
@@ -13,12 +15,10 @@ Logement social IDF est une application web qui permet de consulter des données
 
 ## Provenance des données
 
-Nous avons récupéré toutes les données des logements sociaux sur le site data.gouv.fr et en avons importées dans le projet dans le répertoire donné. Pour tout ce qui est données les API adresse.data.gouv.fr et navitia.io du STIF. 
+Les données des logements sociaux ont été récupérées sur le site data.gouv.fr et ont été importées dans le projet dans le répertoire donné. Des APIs ont aussi été utilisées : les API adresse.data.gouv.fr et navitia.io du STIF. 
 
 ## Bibliothèques et outils
 
 Bibliothèques et Outils 
-Nous avons utilisé le framework CSS Material Design Lite pour le style de l’interface. 
-Pour la carte nous avons utilisé Leaflet et jQuery pour le code client.
-
-La version de production actuelle est hébergée [ici](https://lapostolet.fr)
+Le framework CSS Material Design Lite a été utilisé pour le style de l’interface. 
+Pour la carte, Leaflet et jQuery ont été utilisés pour le code client.
