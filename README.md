@@ -19,6 +19,5 @@ Les données des logements sociaux ont été récupérées sur le site data.gouv
 
 ## Bibliothèques et outils
 
-Bibliothèques et Outils 
 Le framework CSS Material Design Lite a été utilisé pour le style de l’interface. 
 Pour la carte, Leaflet et jQuery ont été utilisés pour le code client.
